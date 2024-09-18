@@ -20,12 +20,31 @@ This dataset contains information about the top 500 posts from the subreddit r/P
 *created_utc*: The creation time of the post in UTC. (ONLY IN past_year_top_posts_API_RAW_DATA.json)
 *num_comments*: The number of comments on the post.
 
-**Added Field:** 
+**Created Fields:** 
 *created_date*: The creation time of the post in ISO 8601 format, converted from *created_utc*
 *Rank*: The rank of the post ranging from 1-500 based on *score*
 
+**UNUSED FIELDS from Reddit API:**
+*upvote_ratio*: The ratio of upvotes to downvotes.
+*subreddit*: The name of the subreddit where the post was made.
+*subreddit_id*: The unique identifier of the subreddit.
+*subreddit_subscribers*: The number of subscribers to the subreddit.
+*permalink*: The permanent link to the post on Reddit.
+*is_self*: Boolean indicating if the post is a self-post (text post) or a link.
+*over_18*: Boolean indicating if the post is marked as NSFW (Not Safe For Work).
+*is_original_content*: Boolean indicating if the post is marked as original content.
+*stickied*: Boolean indicating if the post is stickied (pinned) at the top of the subreddit.
+*locked*: Boolean indicating if the post is locked (no new comments can be made).
+*gilded*: Number of times the post has been gilded (received awards).
+*edited*: Boolean or timestamp indicating if the post was edited and when.
+*link_flair_text*: The flair text assigned to the post (if any).
+*spoiler*: Boolean indicating if the post is marked as a spoiler.
+*hide_score*: Boolean indicating if the score is hidden.
+*author_fullname*: The full identifier of the author (useful for user-specific data).
+*thumbnail*: The URL of the post thumbnail, if available.
+
 ### Publisher
-- "Student project, RPI"
+- Student project at RPI
 
 ### Contributors
 - Tiziana Hernandez (Data Collector and Curator)
