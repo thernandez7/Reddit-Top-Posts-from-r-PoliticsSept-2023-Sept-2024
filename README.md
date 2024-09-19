@@ -80,6 +80,8 @@ Saved 17 posts for 2023-11 in reddit_top_posts_by_month/2023-11.json
 
 ### Source
 - Reddit API Documentation: https://www.reddit.com/dev/api
+- PRAW Documentation: https://praw.readthedocs.io/en/stable/ 
+- PRAW Submission Objects: https://praw.readthedocs.io/en/latest/code_overview/models/submission.html
 
 ### Language
 - **Language**: English
