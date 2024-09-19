@@ -22,7 +22,7 @@ This dataset contains information about the top 800 posts from the subreddit r/P
 
 **Created Fields:** 
 *created_date*: The creation time of the post in ISO 8601 format, converted from *created_utc*
-*Rank*: The rank of the post ranging from 1-500 based on *score*
+*Rank*: The rank of the post ranging from 1-800 based on *score*
 
 **UNUSED FIELDS from Reddit API:**
 *upvote_ratio*: The ratio of upvotes to downvotes.
