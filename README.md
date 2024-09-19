@@ -1,4 +1,4 @@
-# Title: Reddit-Top-Posts-from-r-PoliticsSept-2023-Sept-2024
+## Title: Reddit-Top-Posts-from-r-PoliticsSept-2023-Sept-2024
 
 ### Creator
 - **Author**: Tiziana Hernandez
@@ -42,6 +42,22 @@ This dataset contains information about the top 500 posts from the subreddit r/P
 *hide_score*: Boolean indicating if the score is hidden.
 *author_fullname*: The full identifier of the author (useful for user-specific data).
 *thumbnail*: The URL of the post thumbnail, if available.
+
+**Number of Top-posts per month:** 
+Saved 95 posts for 2023-04 in reddit_top_posts_by_month/2023-04.json
+Saved 91 posts for 2023-05 in reddit_top_posts_by_month/2023-05.json
+Saved 74 posts for 2023-06 in reddit_top_posts_by_month/2023-06.json
+Saved 40 posts for 2023-08 in reddit_top_posts_by_month/2023-08.json
+Saved 20 posts for 2023-09 in reddit_top_posts_by_month/2023-09.json
+Saved 2 posts for 2024-04 in reddit_top_posts_by_month/2024-04.json
+Saved 20 posts for 2023-12 in reddit_top_posts_by_month/2023-12.json
+Saved 33 posts for 2024-03 in reddit_top_posts_by_month/2024-03.json
+Saved 37 posts for 2023-07 in reddit_top_posts_by_month/2023-07.json
+Saved 21 posts for 2024-01 in reddit_top_posts_by_month/2024-01.json
+Saved 21 posts for 2023-10 in reddit_top_posts_by_month/2023-10.json
+Saved 29 posts for 2024-02 in reddit_top_posts_by_month/2024-02.json
+Saved 17 posts for 2023-11 in reddit_top_posts_by_month/2023-11.json
+
 
 ### Publisher
 - Student project at RPI
