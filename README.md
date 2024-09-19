@@ -8,7 +8,7 @@
 **Keywords**: Reddit, r/Politics, top posts, political discourse, politics, social media, Reddit API, 2023-2024
 
 ### Description
-This dataset contains information about the top 500 posts from the subreddit r/Politics from September 18, 2023 - September 18, 2024. This data could be used to gain a comprehensive understanding of popular discourse, opinion trends, and information/misinformation dissemination within politics on Reddit. This data can be used for analyzing the political leanings of the posts, and identifying whether the top posts seem to exhibit left-leaning, right-leaning, or potentially misleading (fake news) tendencies.
+This dataset contains information about the top 800 posts from the subreddit r/Politics from September 18, 2023 - September 18, 2024. This data could be used to gain a comprehensive understanding of popular discourse, opinion trends, and information/misinformation dissemination within politics on Reddit. This data can be used for analyzing the political leanings of the posts, and identifying whether the top posts seem to exhibit left-leaning, right-leaning, or potentially misleading (fake news) tendencies.
 
 **Each post object includes various metadata fields that provide detailed information about the post. Below are the relevant fields I used included in the Reddit API fetch:**
 *id*: Unique identifier of the post.
@@ -44,19 +44,19 @@ This dataset contains information about the top 500 posts from the subreddit r/P
 *thumbnail*: The URL of the post thumbnail, if available.
 
 **Number of Top-posts per month:** 
-Saved 95 posts for 2023-04 in reddit_top_posts_by_month/2023-04.json
-Saved 91 posts for 2023-05 in reddit_top_posts_by_month/2023-05.json
-Saved 74 posts for 2023-06 in reddit_top_posts_by_month/2023-06.json
-Saved 40 posts for 2023-08 in reddit_top_posts_by_month/2023-08.json
-Saved 20 posts for 2023-09 in reddit_top_posts_by_month/2023-09.json
-Saved 2 posts for 2024-04 in reddit_top_posts_by_month/2024-04.json
-Saved 20 posts for 2023-12 in reddit_top_posts_by_month/2023-12.json
-Saved 33 posts for 2024-03 in reddit_top_posts_by_month/2024-03.json
-Saved 37 posts for 2023-07 in reddit_top_posts_by_month/2023-07.json
-Saved 21 posts for 2024-01 in reddit_top_posts_by_month/2024-01.json
-Saved 21 posts for 2023-10 in reddit_top_posts_by_month/2023-10.json
-Saved 29 posts for 2024-02 in reddit_top_posts_by_month/2024-02.json
-Saved 17 posts for 2023-11 in reddit_top_posts_by_month/2023-11.json
+Saved 110 posts for 2023-04 in reddit_top_posts_by_month/2023-04.json
+Saved 122 posts for 2023-05 in reddit_top_posts_by_month/2023-05.json
+Saved 104 posts for 2023-06 in reddit_top_posts_by_month/2023-06.json
+Saved 62 posts for 2023-08 in reddit_top_posts_by_month/2023-08.json
+Saved 37 posts for 2023-09 in reddit_top_posts_by_month/2023-09.json
+Saved 3 posts for 2024-04 in reddit_top_posts_by_month/2024-04.json
+Saved 45 posts for 2023-12 in reddit_top_posts_by_month/2023-12.json
+Saved 68 posts for 2024-03 in reddit_top_posts_by_month/2024-03.json
+Saved 64 posts for 2023-07 in reddit_top_posts_by_month/2023-07.json
+Saved 45 posts for 2024-01 in reddit_top_posts_by_month/2024-01.json
+Saved 46 posts for 2023-10 in reddit_top_posts_by_month/2023-10.json
+Saved 53 posts for 2024-02 in reddit_top_posts_by_month/2024-02.json
+Saved 41 posts for 2023-11 in reddit_top_posts_by_month/2023-11.json
 
 
 ### Publisher
@@ -67,7 +67,7 @@ Saved 17 posts for 2023-11 in reddit_top_posts_by_month/2023-11.json
 
 ### Date
 - **Creation Date**: 2024-09-17
-- **Last Updated**: 2024-09-18
+- **Last Updated**: 2024-09-19
 
 ### Type
 - **Type**: Dataset
